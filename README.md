@@ -54,8 +54,6 @@ Bu yazılım sadece Defansif Güvenlik (Blue Team), eğitim ve sistem denetimi
 sistemler üzerinde kötüye kullanımından doğacak yasal sorumluluk tamamen 
 kullanıcıya aittir.
 
-====================================================================
 İletişim ve Geri Bildirim İçin:
 LinkedIn: https://www.linkedin.com/in/inan-demir-117022378/
 GitHub:   https://github.com/inandemir
-====================================================================
