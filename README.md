@@ -1,6 +1,5 @@
-====================================================================
+
 🛡️ NEXUS SYSTEM SUITE - SOC COMMAND CENTER (Ultimate Edition) 🛡️
-====================================================================
 
 Geliştirici: İnan Demir
 Versiyon: 1.0.0
